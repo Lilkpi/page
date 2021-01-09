@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+h1{
+  text-shadow: -1px -1px 0px #FF4500;
+  -webkit-transform: scale(1.5);
+  -moz-transform: scale(1.5);
+  -o-transform: scale(1.5);
+  border: 2px solid #FF0000;
+  background-color: #d2c8d2;
+  padding: 40px;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 15pt;
+  color: #B22222;
+  text-align: center;
+  outline: 1px solid #000000;
+}
+body{
+  background: #ff44;
+}
+#contador{
+  padding: 200px;
+  font-size: 60px;
+  text-align: center;
+  
+}
+
+
+
